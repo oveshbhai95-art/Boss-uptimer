@@ -7,7 +7,7 @@ from web import keep_alive
 # ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ
 API_ID = 23903140
 API_HASH = "579f1bcf3eac1660d81ef34b09906012"
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8592003697:AAEYGaFeYVLofUXegjE5tUwqbstMDM0ACZM"
 MONGO_URL = "YOUR_MONGODB_URL_HERE"
 
 # ɪɴɪᴛɪᴀʟɪᴢᴇ ᴄʟɪᴇɴᴛs
